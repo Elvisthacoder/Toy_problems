@@ -1,6 +1,6 @@
-package sequence;
+package sequence; //a package inside the class
 
-import java.util.*;
+import java.util.*; //imports all library files
 
 public class sequence {
 
