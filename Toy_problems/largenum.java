@@ -12,10 +12,10 @@ public class largenum {
 	            System.out.println("Number" + i + ": ");
 	            int nextNumber=sc.nextInt();
 	            if(nextNumber<smallest){
-	                smallest+=nextNumber;
+	                smallest=nextNumber;
 	            }
 	            else if(nextNumber<largest){
-	                largest+=nextNumber;
+	                largest=nextNumber;
 	            }
 
 
